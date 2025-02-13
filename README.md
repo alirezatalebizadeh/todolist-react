@@ -48,5 +48,5 @@
 برای کلون کردن پروژه، دستور زیر را اجرا کنید:
 
 ```bash
-git clone https://github.com/your-username/todo-list-react-tailwind-react-dnd.git
+git clone https://github.com/alirezatalebizadeh/todolist-react.git
 cd todo-list-react-tailwind-react-dnd
