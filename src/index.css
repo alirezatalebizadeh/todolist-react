@@ -55,14 +55,14 @@ body {
 }
 
 .status h1 {
-  position: absolute;
-  top: 0;
-  left: 0;
+  /* position: absolute;
+  top: 1;
+  left: 0; */
   background-color: #343434;
   color: #f3f3f3;
   margin: 0;
   width: 100%;
-  padding: 0.5rem 1rem;
+  padding: 1rem 1rem;
   font-size: 1.5rem;
   border-radius: 5px;
 }
