@@ -149,7 +149,7 @@ function App() {
 
         {/* //!Modal */}
         {showModal && (
-          <div className="modal active">
+          <div className="modal active w-[90vw] md:w-[450px]">
             <div className="header">
               <div className="title">اضافه کردن یادداشت</div>
               <button className="btn close-modal" onClick={() => setShowModal(false)}>
