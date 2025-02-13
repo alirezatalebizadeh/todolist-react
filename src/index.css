@@ -43,15 +43,11 @@ span {
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   font-size: 25px;
   direction: rtl;
 }
 
 .status {
-  width: 24.5%;
   background-color: #f3f3f3;
   position: relative;
   padding: 60px 1rem 0.5rem;
