@@ -50,12 +50,6 @@ body {
   direction: rtl;
 }
 
-/* .todo-container {
-  width: 1000px;
-  height: 80vh;
-  display: flex;
-} */
-
 .status {
   width: 24.5%;
   background-color: #f3f3f3;
@@ -134,14 +128,12 @@ body {
 @media screen and (max-width: 996px) {
   body {
     font-size: 22px;
-    background-color: #27e12d;
   }
 }
 
 @media screen and (max-width: 768px) {
   body {
     font-size: 16px;
-    background-color: #e2492a;
   }
 }
 
@@ -176,7 +168,6 @@ body {
   align-items: center;
   border-bottom: 1px solid #ccc;
   padding: 0.5rem;
-  background-color: rgba(0, 0, 0, 0.05);
 }
 
 .modal .body {
