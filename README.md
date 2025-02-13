@@ -1,4 +1,7 @@
 # لیست کارها با React، Tailwind CSS و React DnD
+دیدن دموی سایت :  https://todolist-react-gamma.vercel.app/
+![Capture](https://github.com/user-attachments/assets/a1276cd9-1de7-4eed-9159-0db513850c7b)
+
 
 یک اپلیکیشن ساده و تعاملی لیست کارها (Todo List) که با استفاده از React ساخته شده است، با طراحی توسط Tailwind CSS و قابلیت کشیدن و رها کردن (drag-and-drop) توسط `react-dnd`.
 
